@@ -1,0 +1,11 @@
+C:\Users\vishn\Desktop\Nuget\bin\Release\net9.0\Nuget.deps.json
+C:\Users\vishn\Desktop\Nuget\bin\Release\net9.0\Nuget.dll
+C:\Users\vishn\Desktop\Nuget\bin\Release\net9.0\Nuget.pdb
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.AssemblyInfoInputs.cache
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.AssemblyInfo.cs
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.csproj.CoreCompileInputs.cache
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.dll
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\refint\Nuget.dll
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\Nuget.pdb
+C:\Users\vishn\Desktop\Nuget\obj\Release\net9.0\ref\Nuget.dll
